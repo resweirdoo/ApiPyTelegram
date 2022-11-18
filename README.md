@@ -26,13 +26,6 @@ ApiPyTelegram.message.text(12345, "test you") # first arg is chat id
 
 
 
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
 ## Contributing
 
 Contributions are always welcome!
