@@ -1,0 +1,7 @@
+README.md
+setup.py
+ApiPyTelegram.egg-info/PKG-INFO
+ApiPyTelegram.egg-info/SOURCES.txt
+ApiPyTelegram.egg-info/dependency_links.txt
+ApiPyTelegram.egg-info/requires.txt
+ApiPyTelegram.egg-info/top_level.txt
