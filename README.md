@@ -7,7 +7,7 @@ telegram bots core for python.
 Install my-project with pip
 
 ```bash
-  pip install PyTelegramApi
+  pip install rePyTelegramApi
 ```
     
 ## Usage/Examples
